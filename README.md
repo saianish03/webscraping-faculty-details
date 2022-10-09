@@ -1,4 +1,4 @@
-**Webscraping using BeautifulSoup**
+#Webscraping using BeautifulSoup
 
 Using BeautifulSoup, extracted the required details from individual faculty pages and saved these details in an xlsx file.
 
