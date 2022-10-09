@@ -1,6 +1,8 @@
-Webscraping Faculty Details
+**Webscraping using BeautifulSoup**
 
 Using BeautifulSoup, extracted the required details from individual faculty pages and saved these details in an xlsx file.
+
+URL : https://www.mahindrauniversity.edu.in/faculty-members
 
 The individual_page.py extracts the details from each page using it's URL.
 
